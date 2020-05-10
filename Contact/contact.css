@@ -1,0 +1,79 @@
+
+body{    
+    overflow-x: hidden;
+    background: url("../images/eb4\(JPEG\)2.jpg");
+    color: #FFF;
+    font-family: 'EB Garamond', serif;    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.border{
+    border-color: #080808 !important;
+}
+
+#contactsec{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.contactinfo p{
+    font-family: 'EB Garamond', serif;
+    font-size: 16px;
+    letter-spacing: 0.15rem;
+    font-weight: 550 !important;
+    color: #080808;
+}
+
+.contactinfo1 h4{
+    font-family: 'EB Garamond', serif;
+    font-size: 1.5rem;
+    letter-spacing: 0.15rem;
+    font-weight: 600 !important;
+    color: #080808;
+    
+}
+
+@media (min-width: 992px) {
+    /* xs */
+    .col-45 {
+        -ms-flex: 0 0 38%;
+        flex: 0 0 38%;
+        max-width: 38%;
+    }
+    #contactsec{
+        margin-top: 200px;
+        margin-bottom: 150px;
+    }
+    
+}
+
+
+.font-1{
+    font-family: 'EB Garamond', serif;
+    font-size: 16px;
+    letter-spacing: 0.15rem;
+    font-weight: 600;
+}
+
+.citiesli ul{
+    list-style-type: disc;
+}
+
+.citiesli ul li{
+    background-color: transparent;
+    color: black;
+    font-weight: 600;
+}
+
+.form-note{
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 0.5rem;
+    color: #a38918;
+    letter-spacing: 0.15em;
+    text-align: center;
+    line-height:2em;
+    font-size:22px;
+}
+
