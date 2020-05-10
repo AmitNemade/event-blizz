@@ -1,0 +1,50 @@
+.card img{
+    width: 100%;
+    
+    /* border-radius: 2000px; */
+}
+
+body{    
+    font-family: 'EB Garamond', serif;
+    overflow-x: hidden;
+    /* background: url("http://saffronstudios.com/wp-content/uploads/venice-photoshoot-destination-wedding.jpg"); */
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+h1 { 
+    margin:150px auto 30px auto; 
+    text-align:center; 
+    color:#fff;
+} 
+
+.card img{
+    width: 250px;
+    height: 200px;
+}
+
+.card-img-overlay{
+    position: absolute;
+    padding-top: 35%; 
+    width: 100%; 
+    left: 0;
+}
+
+.service-style{
+    text-align: center;
+    height: auto;
+    width: 261px;
+}
+#footersec{
+    color: #fff;
+    margin-top: 7px;
+}
+
+#bookbut{
+    width: 227px;
+    height:49px;
+    text-align: center;
+    border-radius: 0px;
+    
+}
