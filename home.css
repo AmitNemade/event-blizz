@@ -1,0 +1,51 @@
+#section1 > .container{
+    background: url(eb3.jpeg);
+    background-size: cover;
+    background-position: 100% auto;
+    position: relative;    
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+
+}
+
+.content{
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+}
+
+#serviesection{
+    margin-top: 20px;
+}
+
+.cardbox{
+    background-color: #b6964b;
+    border: 3px solid black;
+    padding: 80px 10px 80px 10px;
+}
+.cardbox > .content >.content{
+    margin-top: 80px; 
+}
+.cardbox > .content > h1{
+    color: white;
+    font-weight: 10;
+    font-family: 'Gudea', sans-serif;
+}
+
+.cardbox > .content > .content > h3{
+    color: white;
+    font-family: 'EB Garamond', serif;
+}
+
+.cardbox > .content >  button{
+    color: white;
+    background-color: #b6964b;
+    border: 1px white solid;
+    margin-top: 70px;
+}
+
+.gallerycardbox{
+    align-content: flex-end;
+}
+
+/* #af9453 */
