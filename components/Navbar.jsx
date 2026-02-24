@@ -34,7 +34,7 @@ export default function Navbar({ active }) {
           <Link href="/" className="flex items-center gap-4 group">
             <div className="relative">
               <img
-                src="/logo.jpg"
+                src="/Logo.jpg"
                 className="object-contain w-11 h-11 rounded-full border border-primary/20 p-0.5 transition-transform duration-500 group-hover:rotate-[360deg]"
                 alt="EventBlizz Logo"
               />
